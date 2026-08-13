@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Bachelor**
+- 🌱 I’m currently learning **Master**
 
 - 🧑‍🎓 I’m an Undergraduate at ** **
 
